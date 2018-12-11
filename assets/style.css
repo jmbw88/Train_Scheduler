@@ -1,0 +1,9 @@
+body {
+    background-color: skyblue;
+}
+
+#myHeader {
+    background-color: whitesmoke;
+    text-align: center;
+    border: black 3px solid; 
+}
